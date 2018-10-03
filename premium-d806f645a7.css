@@ -129,14 +129,14 @@
 }
 @media (max-width: 767px) {
   .premiumAB .hero-main .hero-home-bg {
-    background: url('../../i/home/segmented-home/premium_dancer.png');
+    background: url('premium_dancer.png');
     background-position: right bottom -20px;
     background-repeat: no-repeat;
   }
 }
 @media (min-width: 768px) {
   .premiumAB .hero-main .hero-home-bg {
-    background: url('../../i/home/segmented-home/premium_dancer.png');
+    background: url('premium_dancer.png');
     background-position: right bottom -20px;
     background-repeat: no-repeat;
   }
@@ -382,7 +382,7 @@
   color: #FFF;
 }
 .premiumAB .hero-subscription .btn.btn-stroked-green:hover {
-  background-color: #1DB954;
+  background-color: #c4c2be;
 }
 .premiumAB .hero-subscription .btn.btn-stroked-green:focus,
 .premiumAB .hero-subscription .btn.btn-stroked-green:active {
