@@ -305,7 +305,7 @@
   }
 }
 .premiumAB .hero-why-premium .details-icon.details-download {
-  background: url("http://www.scdn.co/i/premium/benefits-download.svg") no-repeat;
+  background: url("Thanks/benefits-download.svg") no-repeat;
   background-size: 100px 100px;
   background-position: left;
 }
@@ -316,7 +316,7 @@
   }
 }
 .premiumAB .hero-why-premium .details-icon.details-no-ads {
-  background: url("http://www.scdn.co/i/premium/benefits-no-ads.svg") no-repeat;
+  background: url("Thanks/benefits-no-ads.svg") no-repeat;
   background-size: 100px 100px;
   background-position: left;
 }
@@ -327,7 +327,7 @@
   }
 }
 .premiumAB .hero-why-premium .details-icon.details-play {
-  background: url("http://www.scdn.co/i/premium/benefits-play.svg") no-repeat;
+  background: url("Thanks/benefits-play.svg") no-repeat;
   background-size: 100px 100px;
   background-position: left;
 }
@@ -338,7 +338,7 @@
   }
 }
 .premiumAB .hero-why-premium .details-icon.details-skip {
-  background: url("http://www.scdn.co/i/premium/benefits-skip.svg") no-repeat;
+  background: url("Thanks/benefits-skip.svg") no-repeat;
   background-size: 100px 100px;
   background-position: left;
 }
@@ -564,13 +564,13 @@
 }
 .premiumAB .hero-subscription .spotify-free-list,
 .premiumAB .hero-subscription .spotify-premium-list {
-  list-style-image: url(http://www.scdn.co/i/home/plan-checklist.svg);
+  list-style-image: url("Thanks/plan-checklist.svg");
   color: #000;
   margin-left: -12px;
   margin-bottom: 0;
 }
 .premiumAB .hero-subscription .spotify-free-list li:not(:first-child) {
-  list-style-image: url(http://www.scdn.co/i/home/plan-checklist-free.svg);
+  list-style-image: url("Thanks/plan-checklist-free.svg");
   color: #C1C3C6;
 }
 .premiumAB .hero-subscription li {
